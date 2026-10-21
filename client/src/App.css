@@ -1,0 +1,13 @@
+p{
+    color:#50769a;
+    color:#E67817;
+    color:#03173d;
+    /* color:#E67817; */
+}
+
+/* Hide arrows in Chrome, Safari, Edge, Opera */
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
